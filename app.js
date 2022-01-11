@@ -8,7 +8,7 @@ app.use(morgan('combined'));
 
 app.get("/", (req,res) =>{
 
-    res.send("Hello NodeJS Www");
+    res.send("Hello NodeJS github");
 
 })
 
